@@ -1,4 +1,4 @@
-name: VPC Deploy
+name: s3 Deploy
 on:
   workflow_dispatch:
 
